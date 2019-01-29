@@ -1,0 +1,18 @@
+{
+  "name": "parcel_js_todo_list_demo",
+  "version": "1.0.0",
+  "description": "* [網站如何開始使用 ES6 / ES2015 模組化技術進行前端開發](https://blog.miniasp.com/post/2019/01/29/How-to-get-start-with-ES6-ES2015-Modules-with-Parcel.aspx)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "./node_modules/.bin/parcel index.html --open"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
+}
